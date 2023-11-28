@@ -8,6 +8,8 @@
 > اطلاعات خود را در فایل config.py قرار بدید.
 
 **شبکه های اجتماعی کدینگ لاورز**:
->> [تلگرام کدینگ لاورز](https://t.me/CodingLovers_OFF)
+>> [Telegram](https://t.me/CodingLovers_OFF)
+
 >> [YouTube](https://youtube.com/@CodingLovers)
+
 >> [Instagram](https://instagram.com/codinglovers_off)
