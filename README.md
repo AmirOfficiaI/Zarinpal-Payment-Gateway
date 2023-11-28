@@ -7,7 +7,7 @@
 درگاه پرداخت زرین‌پال توسعه داده شده با پایتون (Python) و فریم‌ورک فلسک (Flask) برای استفاده در پروژه های مختلف مثل ربات تلگرام، وبسایت ها و...
 > اطلاعات خود را در فایل config.py قرار بدید.
 
-#### شبکه های اجتماعی کدینگ لاورز:
+### Find Coding Lovers:
 >> [Telegram](https://t.me/CodingLovers_OFF)
 
 >> [YouTube](https://youtube.com/@CodingLovers)
